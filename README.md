@@ -32,7 +32,7 @@ I am a passionate Full Stack Developer with a keen interest in creating scalable
 
 ## 📫 Connect with Me
 - [Email](mailto:arwaelhosany07@gmail.com)
-- Phone: +201029120087
+- [Phone] (+201029120087)
 
 ---
 
